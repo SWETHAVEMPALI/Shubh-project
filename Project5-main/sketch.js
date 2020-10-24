@@ -205,8 +205,15 @@ question1.visible=false;
      m10=Sprite2(windowWidth-80,windowHeight/2+60,200,20)
      m11=Sprite2(windowWidth/2-570,windowHeight/2+60,200,20)
      m12=Sprite2(windowWidth/2-570,windowHeight/2-60,200,20)
+     wallsGroup.add(m5);
+    wallsGroup.add(m6);
+    wallsGroup.add(m7);
+    wallsGroup.add(m8);
+    wallsGroup.add(m9);
+    wallsGroup.add(m10);
+    wallsGroup.add(m11);
+    wallsGroup.add(m12);
     
-
     level2Group.setVisibleEach(false)
    
 
